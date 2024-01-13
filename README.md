@@ -53,8 +53,7 @@ Run the Streamlit app:
 
 ```bash
 streamlit run app.py
-
-
+```
 
 4. **Access the Chatbot:**
 Open your web browser and navigate to `http://localhost:5000` to access the chatbot.
